@@ -1,2 +1,2 @@
 "Full name: Shaden Awad" 
-Department: Computer Science
+Department: Computer Science 
